@@ -1,2 +1,7 @@
 test case
+<<<<<<< HEAD
 test change dev to master and add master in remote
+=======
+master
+dev branch
+>>>>>>> dev
